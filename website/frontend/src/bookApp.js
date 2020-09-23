@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import Book from "./bookComponent";
+import Book from './bookComponent';
 
 class App extends Component {
   render() {
-    return (
-      <Book />
-    );
+    return <Book />;
   }
 }
 
