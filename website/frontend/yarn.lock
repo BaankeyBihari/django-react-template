@@ -8840,10 +8840,10 @@ react-app-polyfill@^1.0.6:
     regenerator-runtime "^0.13.3"
     whatwg-fetch "^3.0.0"
 
-react-app-rewire-multiple-entry@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/react-app-rewire-multiple-entry/-/react-app-rewire-multiple-entry-2.2.0.tgz#76b33488a673d7934b973de26edbca7a23b72e20"
-  integrity sha512-J91dI4GY0nVdlbTI/EvhI3rper8URbIzas9E+K14kNc5pHgNCjH7ImJzVsCcfB1prCZbBNQV5ygwg/8T17igcg==
+react-app-rewire-multiple-entry@2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/react-app-rewire-multiple-entry/-/react-app-rewire-multiple-entry-2.2.1.tgz#f2b5f7be60aea8c33b82c8d63cb772ceb19dac03"
+  integrity sha512-Zd1xSPNCaaMi6MXOoBaNnl9hK2Bg8G2YNfzruyWnLbqankBMtjWqKzZCRJViX7kCVWnS33ojXBxub6BKTCPVOw==
   dependencies:
     xxhashjs "^0.2.2"
 
