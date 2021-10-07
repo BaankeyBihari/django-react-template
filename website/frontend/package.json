@@ -41,7 +41,7 @@
   "devDependencies": {
     "eslint-config-prettier": "6.11.0",
     "eslint-loader": "4.0.2",
-    "eslint-plugin-prettier": "3.1.4",
+    "eslint-plugin-prettier": "3.4.1",
     "eslint-plugin-react": "7.21.0",
     "prettier": "2.1.2",
     "react-app-rewire-multiple-entry": "2.2.0",
