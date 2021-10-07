@@ -43,7 +43,7 @@
     "eslint-loader": "4.0.2",
     "eslint-plugin-prettier": "3.1.4",
     "eslint-plugin-react": "7.21.0",
-    "prettier": "2.1.2",
+    "prettier": "2.4.1",
     "react-app-rewire-multiple-entry": "2.2.0",
     "react-app-rewired": "2.1.6"
   }
