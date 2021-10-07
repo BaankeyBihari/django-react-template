@@ -42,7 +42,7 @@
     "eslint-config-prettier": "6.11.0",
     "eslint-loader": "4.0.2",
     "eslint-plugin-prettier": "3.1.4",
-    "eslint-plugin-react": "7.21.0",
+    "eslint-plugin-react": "7.26.1",
     "prettier": "2.1.2",
     "react-app-rewire-multiple-entry": "2.2.0",
     "react-app-rewired": "2.1.6"
